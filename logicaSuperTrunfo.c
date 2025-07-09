@@ -204,16 +204,6 @@ int main(){
         printf("\nEmpatou");
     }
     
-    /*((populacao1 == populacao2) || (area1 == area2) || (pib1 == pib2) || (pontos_turistico1 == pontos_turistico2) ||
-            (densidade1 == densidade2) || (perCapta1 == perCapta2) || (superPoder1 == superPoder2)){
-            printf("\nJogo empatado");
-            } else if ((populacao1 > populacao2) || (area1 > area2) || (pib1 > pib2) || (pontos_turistico1 > pontos_turistico2) ||
-                    (densidade1 < densidade2) || (perCapta1 > perCapta2) || (superPoder1 > superPoder2)){
-                        printf("\nA Carta 1 Venceu");
-                    } else {
-                        printf("\nA Carta 2 Venceu");
-                    }*/
-
     return 0;
 
 }
